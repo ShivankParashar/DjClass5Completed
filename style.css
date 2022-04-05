@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+}
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+}
+.Note {
+    font-size: 15px;
+    color: red;
+}
+.music_speed {
+    float: left;
+}
+.gif {
+    width: 200px;
+    border-radius: 100px;
+}
+#speed {
+    font-size: 25px;
+    margin: 15px;
+}
+.music_volume {
+    float: right;
+}
+#volume {
+    font-size: 25px;
+    margin: 15px;
+}
+.play {
+    width: 200px;
+    font-size: 30px;
+    border-radius: 25px;
+    border: 5px solid yellow;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+canvas{
+    border-radius: 30px;
+    border: 10px solid red;
+}
